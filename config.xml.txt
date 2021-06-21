@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.tanya.ICHKIEARCHERY"
+        version   = "1.0.0">
+
+    <name>ICHKIE ARCHERY</name>
+
+    <description>
+        Application that helps one know about their history,culture and heritige.
+    </description>
+
+    <author href="http://phonegap.com" email="support@phonegap.com">
+        Tanya Saxena
+    </author>
+	
+	<icon src="icon.jpeg" />
+</widget>
